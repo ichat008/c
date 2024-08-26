@@ -1,0 +1,14 @@
+/* 
+  Name:			Scale
+  Type:			Emphasis
+  TypeSecond:   scene
+  Description:	Scale Effect
+  Version:		2.0	
+  locale:		{"zh-Hans":"缩放", "en-US":"Scale"}
+  Class:        Scale
+  Parameter:    <^   {"Options":{"swing":0.2, "times":1}}   $>
+ */
+ 
+@keyframes scale {
+	
+}
